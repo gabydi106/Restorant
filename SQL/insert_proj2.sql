@@ -61,3 +61,27 @@ INSERT INTO RESTAURANTS VALUES
 ('R18'	,'A1017',	'S1100'	,	'The Island'	,	'$$'	,'11am'	,	'11pm'	,	'http://theisland.com'	)	,
 ('R19'	,'A1018',	'S1100'	,	'Aroma'	,		'$'	,'11am'	,	'3am'	,	'http://aroma.ca'	)	,
 ('R20'	,'A1019',	'S1100'	,	'Citrus'	,	'$$'	,'8am'	,	'11pm'	,	'http://citrus.com'	)	;
+
+
+INSERT INTO CUSTOMERS VALUES
+
+('C1'	,'Pamela', 'Hansen', 'phansen0@samsung.com'),				
+('C2'	,'Christine', 'Fowler', 'cfowler1@cnet.com'),				
+('C3'	,'Carol', 'Brooks', 'cbrooks2@wordpress.org'),				
+('C4'	,'Denise', 'Reynolds', 'dreynolds3@abc.net.au'),				
+('C5'	,'Teresa', 'Henderson', 'thenderson4@yandex.ru'),				
+('C6'	,'Judith', 'Schmidt', 'jschmidt5@dot.gov'),				
+('C7'	,'Andrew', 'Stone', 'astone6@phpbb.com'),				
+('C8'	,'Christina', 'Garza', 'cgarza7@soup.io'),				
+('C9'	,'Ruby', 'Olson', 'rolson8@sciencedaily.com'),				
+('C10'	,'Wayne', 'Williams', 'wwilliams9@jiathis.com'),				
+('C11'	,'Stephen', 'Oliver', 'solivera@foxnews.com'),				
+('C12'	,'Pamela', 'Adams', 'padamsb@biblegateway.com'),				
+('C13'	,'Sarah', 'Shaw', 'sshawc@trellian.com'),				
+('C14'	,'Norma', 'Morris', 'nmorrisd@mashable.com'),				
+('C15'	,'Jack', 'Welch', 'jwelche@cdc.gov'),				
+('C16'	,'Fred', 'Gordon', 'fgordonf@aboutads.info'),				
+('C17'	,'Louise', 'Daniels', 'ldanielsg@google.it'),				
+('C18'	,'Robert', 'Robertson', 'rrobertsonh@seesaa.net'),				
+('C19'	,'Randy', 'Murray', 'rmurrayi@ifeng.com'),				
+('C20'	,'Paula', 'Mitchell', 'pmitchellj@hud.gov');	
