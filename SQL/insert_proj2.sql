@@ -85,3 +85,11 @@ INSERT INTO CUSTOMERS VALUES
 ('C18'	,'Robert', 'Robertson', 'rrobertsonh@seesaa.net'),				
 ('C19'	,'Randy', 'Murray', 'rmurrayi@ifeng.com'),				
 ('C20'	,'Paula', 'Mitchell', 'pmitchellj@hud.gov');	
+
+INSERT INTO CRITICS VALUES
+
+('C1'	,1),
+('C2'	,2),
+('C3'	,3),
+('C4'	,4),
+('C5'	,5);
