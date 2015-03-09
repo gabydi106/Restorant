@@ -96,16 +96,16 @@ INSERT INTO CRITICS VALUES
 
 INSERT INTO REVIEW VALUES
 
-('RV1'	,'C1'	,'R1'	,'Good portion & food, so so service.'	,					21	,'2015-01-10'	),
-('RV2'	,'C2'	,'R2'	,'A good brunch, but a bit expensive!'	,					24	,'2015-01-10'	),
-('RV3'	,'C3'	,'R3'	,'An exemplary bistro with arguably the most loyal clientele in the city.',	32	,'2015-01-13'	),
-('RV4'	,'C4'	,'R4'	,'Appetizers were the best part of our meal.' 	,				30	,'2015-01-18'	),
-('RV5'	,'C5'	,'R5'	,'Simple no-fuss decor. Excellent service. Great food.'	,			28	,'2015-01-21'	),
-('RV6'	,'C6'	,'R20'	,'Decadent deserts.'	,							10	,'2015-01-22'	),
-('RV7'	,'C7'	,'R19'	,'Laid back. Amazing coffee and grilled cheese. Delicious!'	,		8	,'2015-01-30'	),
-('RV8'	,'C8'	,'R18'	,'Great for groups or a couple to try all the flavors. Highly recommended.',	2	,'2015-02-01'	),
-('RV9'	,'C9'	,'R17'	,'The chicken was impeccable. Amazing!'	,					4	,'2015-02-10'	),
-('RV10'	,'C10'	,'R16'	,'Exceptional food and service.'	,					1	,'2015-02-14'	),
-('RV11'	,'C11'	,'R10'	,'Great flavors.'	,							12	,'2015-02-14'	),
-('RV12'	,'C12'	,'R11'	,'Uncomfortable. Feeling rushed to eat.',					17	,'2015-02-18'	),
+('RV1'	,'C1'	,'R1'	,'Good portion & food, so so service.'	,					5	,'2015-01-10'	),
+('RV2'	,'C2'	,'R2'	,'A good brunch, but a bit expensive!'	,					3	,'2015-01-10'	),
+('RV3'	,'C3'	,'R3'	,'An exemplary bistro with arguably the most loyal clientele in the city.',	5	,'2015-01-13'	),
+('RV4'	,'C4'	,'R4'	,'Appetizers were the best part of our meal.' 	,				3	,'2015-01-18'	),
+('RV5'	,'C5'	,'R5'	,'Simple no-fuss decor. Excellent service. Great food.'	,			4	,'2015-01-21'	),
+('RV6'	,'C6'	,'R20'	,'Decadent deserts.'	,							4	,'2015-01-22'	),
+('RV7'	,'C7'	,'R19'	,'Laid back. Amazing coffee and grilled cheese. Delicious!'	,		4	,'2015-01-30'	),
+('RV8'	,'C8'	,'R18'	,'Great for groups or a couple to try all the flavors. Highly recommended.',	5	,'2015-02-01'	),
+('RV9'	,'C9'	,'R17'	,'The chicken was impeccable. Amazing!'	,					5	,'2015-02-10'	),
+('RV10'	,'C10'	,'R16'	,'Exceptional food and service.'	,					4	,'2015-02-14'	),
+('RV11'	,'C11'	,'R10'	,'Great flavors.'	,							3	,'2015-02-14'	),
+('RV12'	,'C12'	,'R11'	,'Uncomfortable. Feeling rushed to eat.',					1	,'2015-02-18'	),
 ('RV13'	,'C13'	,'R12'	,'The dishes are a bit expensive, but the quality is there.'	,		2	,'2015-02-25'	);
