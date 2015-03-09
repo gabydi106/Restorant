@@ -110,6 +110,29 @@ INSERT INTO REVIEW VALUES
 ('RV12'	,'C12'	,'R11'	,'Uncomfortable. Feeling rushed to eat.',					1	,'2015-02-18'	),
 ('RV13'	,'C13'	,'R12'	,'The dishes are a bit expensive, but the quality is there.'	,		2	,'2015-02-25'	);
 
+INSERT INTO MENU VALUES
+
+(	'M1'	,	'R1'	,	'Western'	,	'Dinner'	),
+(	'M2'	,	'R2'	,	'Indian'	,	'Dinner'	),
+(	'M3'	,	'R3'	,	'Chinese'	,	'Dinner'	),
+(	'M4'	,	'R4'	,	'Western'	,	'Lunch'		),
+(	'M5'	,	'R5'	,	'Western'	,	'Dinner'	),
+(	'M6'	,	'R6'	,	'Mexican'	,	'Lunch'		),
+(	'M7'	,	'R7'	,	'Italian'	,	'Dinner'	),
+(	'M8'	,	'R8'	,	'Vietnamese'	,	'Dinner'	),
+(	'M9'	,	'R9'	,	'French'	,	'Dinner'	),
+(	'M10'	,	'R10'	,	'Italian'	,	'Dinner'	),
+(	'M11'	,	'R11'	,	'Vietnamese'	,	'Dinner'	),
+(	'M12'	,	'R12'	,	'Vietnamese'	,	'Dinner'	),
+(	'M13'	,	'R13'	,	'Indian'	,	'Lunch'		),
+(	'M14'	,	'R14'	,	'Japanese'	,	'Dinner'	),
+(	'M15'	,	'R15'	,	'Indian'	,	'Dinner'	),
+(	'M16'	,	'R16'	,	'Chinese'	,	'Dinner'	),
+(	'M17'	,	'R17'	,	'Chinese'	,	'Dinner'	),
+(	'M18'	,	'R18'	,	'Mexican'	,	'Lunch'		),
+(	'M19'	,	'R19'	,	'Cafe'		,	'Drinks'	),
+(	'M20'	,	'R20'	,	'Desserts'	,	'Dessert'	);
+
 
 INSERT INTO FOODITEM VALUES
 
